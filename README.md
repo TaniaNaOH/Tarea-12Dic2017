@@ -2,7 +2,7 @@ RETO 1 UX UI PAGINA LABORATORIA.
 ================================
 
 DASHBOARD.UXUILab.jpeg
-!(/UX-UI-LABORATORIA/UXUILab2.jpeg?)
+![titulo](./UX-UI-LABORATORIA/UXUILab2.jpeg)
 
 RETO 2 NAVEGACION PAGINA GITHUB.
 ================================
