@@ -7,10 +7,9 @@ RETO 1 UX UI PAGINA LABORATORIA.
 RETO 2 NAVEGACION PAGINA GITHUB.
 ================================
 
-![titulo](./NAVEGACION GITHUB/GitNav.png)
+![titulo](./NAVEGACION-GITHUB/GitNav.png)
 
 RETO 3 SKETCH DASHBOARD LABORATORIA.
 =====================================
 
-DASHBOARD.jpeg GitNav.png
 ![titulo](./DASHBOARD/DASHBOARD.jpeg)
